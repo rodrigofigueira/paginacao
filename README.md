@@ -7,6 +7,7 @@ Projeto para estudos de paginação em ASP.NET Core
 - Entity Framework 6
 - Bogus
 - AutoBogus
+- Sqlite
 
 ## Instalar os pacotes
 
@@ -15,7 +16,6 @@ Projeto para estudos de paginação em ASP.NET Core
 - Microsoft.EntityFrameworkCore.Design
 - Microsoft.EntityFrameworkCore.Sqlite
 - Microsoft.EntityFrameworkCore.Tools
-- Sqlite
 
 ## Executar o comando
 
